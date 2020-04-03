@@ -1,4 +1,3 @@
-let currentDayOfWeek = Monday;
-let currentMonth = April1;
+let currentDayOfWeek = "Monday";
+let currentMonth = "April";
 let currentDay = 2;
-
