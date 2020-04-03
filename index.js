@@ -4,3 +4,5 @@ let currentDay = 2;
 let currentYear = 2020;
 
 console.log("Today is:", currentDayOfWeek, currentMonth, currentDay, currentYear);
+
+//
